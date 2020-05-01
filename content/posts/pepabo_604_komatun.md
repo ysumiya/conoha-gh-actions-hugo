@@ -1,7 +1,7 @@
 ---
 title: "Pepabo_604_komatun"
 date: 2020-04-28T23:01:34+09:00
-draft: true
+draft: false
 ---
 ## 自己紹介
 - ペパボ
